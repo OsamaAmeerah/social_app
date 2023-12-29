@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429668457539",
+    "project_id": "socialapp-a9f7a",
+    "storage_bucket": "socialapp-a9f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429668457539:android:09eca8af874daf7244c8f6",
+        "android_client_info": {
+          "package_name": "com.flutter.socialapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUZ09Bw2eiN8ctUyWyDTwLohDrdushFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
